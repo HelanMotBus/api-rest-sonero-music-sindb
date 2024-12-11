@@ -1,0 +1,16 @@
+{
+  "lps": [
+    {
+      "id": 1,
+      "titulo": "andy harlow - sorpresa la flauta by DEE JAY SONERO DE BARRIO",
+      "imagen": "../img/andyharlow.jpg",
+      "link": "https://link-hub.net/1262756/andy-harlow-by-dee-jay"
+    },
+    {
+      "id": 2,
+      "titulo": "bobby valentin - el mensajero ritmo pa goza by DEE JAY SONERO DE BARRIO",
+      "imagen": "../img/bobbyvalentin.jpg",
+      "link": "https://link-hub.net/1262756/bobby-valentin-by-dee-jay"
+    }
+  ]
+}
